@@ -1,0 +1,25 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    flex-direction: column;
+  }
+
+  .form > div{
+    margin-bottom: 10px;
+  }
+
+  .form > div > label{
+    display: contents;
+  
+  }
+  
+  .input{
+    padding: 5px;
+    display: block;
+  }
+
+  button{
+      margin-bottom: 10px;
+  }
